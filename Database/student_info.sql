@@ -39,10 +39,10 @@ CREATE TABLE `information` (
 --
 
 INSERT INTO `information` (`id`, `studentID`, `name`, `address`) VALUES
-(13, '2020-1302-A', 'Christian Klient A. Esmeralda', 'Brgy. Ortiz Gomez St. Iloilo City'),
-(14, '2020-1310-A', 'Reneboy Moritcho', 'Brgy. Tubagon'),
-(15, '2020-0829-A', 'Eunice Mueda', 'Brgy. Pagsanga-an'),
-(17, 'ad', 'sadsda', 'sdsad');
+(13, '2020-1302-A', 'Kevin Sean J. Salvadico', 'Brgy. Alalasan Lapuz Iloilo City'),
+(14, '2020-1310-A', 'Sheiraph	Minaves', 'Brgy. San Isidro'),
+(15, '2020-0829-A', 'Kevin', 'Brgy. Lapaz-'),
+(17, 'abc', 'def', 'ghi');
 
 --
 -- Indexes for dumped tables
